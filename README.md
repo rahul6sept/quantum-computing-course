@@ -6,9 +6,13 @@ Recordings of the lectures are available [here](https://www.youtube.com/playlist
 
 
 ## Table of Contents
+
+
 ### Lecture slides
 1. [Day 1](lecture_slides/day1.pdf)
 2. [Day 2](lecture_slides/day2.pdf)
+
+[Example Problems](lecture_slides/example_problems.pdf)
 
 ### Programming Notebooks
 1. [Brief Python 3 review](notebooks/intro_python.ipynb)
