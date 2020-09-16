@@ -1,5 +1,7 @@
 # quantum-computing-course 
-Course Material for the online short course 'Practical Quantum Computing using Qiskit and IBMQ'
+Course Material for the online short course 'Practical Quantum Computing using Qiskit and IBMQ'.
+Recordings or lectures are available [here](https://www.youtube.com/playlist?list=PLyEHBEYaB52XCMH9mMHo5MAzGcZkcdVGB)
+
 
 ## Table of Contents
 ### Lecture slides
